@@ -1,0 +1,5 @@
+# Ignore all pods
+Pods
+
+# Ignore lock version
+Podfile.lock
